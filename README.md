@@ -10,6 +10,8 @@ Check out my article about [teaching at college](https://journal.tinkoff.ru/it-t
 * 😮 Changed frontend to backend when moved to German
 * 🔥 My passion - Fintech
 * 💸 Working on my dream project [FinBots](https://finbots-landing.herokuapp.com/)
+* 👨‍💻 Wirte [tech articles] (https://habr.com/ru/users/evgentrigub/posts/)
+* 📔 Write [just articles] (https://journal.tinkoff.ru/user92377/) 
 * Proficient: Nest.js, Java Spring, Angular, Vue.js
 
 ## About me
