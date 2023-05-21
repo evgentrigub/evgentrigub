@@ -5,11 +5,12 @@ Software Development Engineer
 ---------------------------------------------------------
 
 ## ⚡ A few quick facts
+* 🤝 Check my profiles in [LinkTree](https://linktr.ee/evgentrigub).
 * 👨‍🏫 Share my experience by teaching other.
 Check out my article about [teaching at college](https://journal.tinkoff.ru/it-teacher/).
 * 😮 Changed frontend to backend when moved to German
 * 🔥 My passion - Fintech
-* 💸 Working on my dream project [FinBots](https://finbots-landing.herokuapp.com/)
+* 💸 Working on my dream project [FinBots](https://finbots-landing-production.up.railway.app)
 * 👨‍💻 Wirte [tech articles](https://habr.com/ru/users/evgentrigub/posts/)
 * 📔 Write [just articles](https://journal.tinkoff.ru/user92377/) 
 * Proficient: Nest.js, Java Spring, Angular, Vue.js
