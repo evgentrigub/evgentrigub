@@ -13,7 +13,7 @@ Check out my article about [teaching at college](https://journal.tinkoff.ru/it-t
 * 💸 Working on my dream project [FinBots](https://finbots-landing-production.up.railway.app)
 * 👨‍💻 Wirte [tech articles](https://habr.com/ru/users/evgentrigub/posts/)
 * 📔 Write [just articles](https://journal.tinkoff.ru/user92377/) 
-* Proficient: Nest.js, Java Spring, Angular, Vue.js
+* Proficient: Java, Spring, Nest.js, Angular, Vue.js
 
 ## About me
 * 🌍  Recently moved to German 🇩🇪
@@ -73,7 +73,7 @@ Check out my article about [teaching at college](https://journal.tinkoff.ru/it-t
   
   <a href="http://www.instagram.com/evgen_success" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://www.facebook.com/eugene.trigubov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
-  <a href="https://www.twitter.com/evgentrigub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://www.twitter.com/evgen_success" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   
 </p>
 
