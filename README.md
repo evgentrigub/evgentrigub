@@ -8,7 +8,7 @@ Software Development Engineer
 * 🤝 Check my profiles in [LinkTree](https://linktr.ee/evgentrigub).
 * 👨‍🏫 Share my experience by teaching other.
 Check out my article about [teaching at college](https://journal.tinkoff.ru/it-teacher/).
-* 😮 Changed frontend to backend when moved to German
+* 😮 Changed frontend to backend when moved to Germany
 * 🔥 My passion - Fintech
 * 💸 Working on my dream project [FinBots](https://finbots-landing-production.up.railway.app)
 * 👨‍💻 Wirte [tech articles](https://habr.com/ru/users/evgentrigub/posts/)
@@ -16,14 +16,14 @@ Check out my article about [teaching at college](https://journal.tinkoff.ru/it-t
 * Proficient: Java, Spring, Nest.js, Angular, Vue.js
 
 ## About me
-* 🌍  Recently moved to German 🇩🇪
-* 🖥️  I work in IT more than 5 years. See my portfolio at [success.me](http://success.me) (in progress...)
+* 🌍  Recently moved to Germany 🇩🇪
+* 🖥️  I've been working in IT for more than 5 years. See my portfolio at [success.me](http://success.me) (in progress...)
 * ✉️  You can contact me at [trigubov.eugene@gmai.com](mailto:trigubov.eugene@gmai.com)
 * 🚀  I'm currently working at [IMC Learning by Sheer](http://www.im-c.com/) \
   Previously worked at [Ozon Fintech](https://www.linkedin.com/company/llc-internet-solutions-ozon-ru-/) and [Yandex](https://www.linkedin.com/company/yandex/)
 * 🧠  I'm learning [Java and environment](https://hyperskill.org/profile/601651) at [Hypeskill](https://hi.hyperskill.org/how-we-teach) by [JetBrains](https://www.jetbrains.com)
-* 🤝  I'm open to collaborating on fintech and algotrading projects
-* ⚡  I have on my checklist "Work at Google". I hope Google will unfreeze hiring soon...
+* 🤝  I'm open to collaboration on fintech and algotrading projects
+* ⚡  I have "Work at Google" on my list. I hope Google will unfreeze hiring soon...
 
 ## Skills
 <p align="left">
