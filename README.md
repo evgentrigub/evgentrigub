@@ -11,19 +11,17 @@ Check out my article about [teaching at college](https://journal.tinkoff.ru/it-t
 * 😮 Changed frontend to backend when moved to Germany
 * 🔥 My passion - Fintech
 * 💸 Working on my dream project [FinBots](https://finbots-landing-production.up.railway.app)
-* 👨‍💻 Wirte [tech articles](https://habr.com/ru/users/evgentrigub/posts/)
+* 👨‍💻 Wirte [tech articles](https://habr.com/ru/users/evgentrigub/articles/)
 * 📔 Write [just articles](https://journal.tinkoff.ru/user92377/) 
 * Proficient: Java, Spring, Nest.js, Angular, Vue.js
 
 ## About me
-* 🌍  Recently moved to Germany 🇩🇪
-* 🖥️  I've been working in IT for more than 5 years. See my portfolio at [success.me](http://success.me) (in progress...)
+* 🌍  Moved to Germany 🇩🇪
+* 🖥️  ~8 years in IT. See my portfolio at [success.me](http://success.me) (in progress...)
 * ✉️  You can contact me at [trigubov.eugene@gmai.com](mailto:trigubov.eugene@gmai.com)
-* 🚀  I'm currently working at [IMC Learning by Sheer](http://www.im-c.com/) \
+* 🚀  I'm currently working at [IU Group](http://www.im-c.com/) \
   Previously worked at [Ozon Fintech](https://www.linkedin.com/company/llc-internet-solutions-ozon-ru-/) and [Yandex](https://www.linkedin.com/company/yandex/)
-* 🧠  I'm learning [Java and environment](https://hyperskill.org/profile/601651) at [Hypeskill](https://hi.hyperskill.org/how-we-teach) by [JetBrains](https://www.jetbrains.com)
-* 🤝  I'm open to collaboration on fintech and algotrading projects
-* ⚡  I have "Work at Google" on my list. I hope Google will unfreeze hiring soon...
+* 🧠  I'm exploring [Java, Kotlin and environment](https://hyperskill.org/profile/601651) at [Hypeskill](https://hi.hyperskill.org/how-we-teach) by [JetBrains](https://www.jetbrains.com)
 
 ## Skills
 <p align="left">
@@ -76,12 +74,6 @@ Check out my article about [teaching at college](https://journal.tinkoff.ru/it-t
   <a href="https://www.twitter.com/evgen_success" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
   
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/evgentrigub"><img src="https://github-readme-stats.vercel.app/api?username=evgentrigub&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="evgentrigub's GitHub stats" /></a>
 
 ### Support Me
 
